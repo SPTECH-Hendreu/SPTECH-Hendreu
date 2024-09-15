@@ -1,6 +1,3 @@
-<h1 align="center">for those who wish to exist</h1>
-<h3 align="center">Hi, I’m Hendreu I solve problems with cutting-edge tech. Always leveling up. Got a challenge? Let’s talk.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hendreu&label=Profile%20views&color=0e75b6&style=flat" alt="hendreu" /> </p>
 
 <p align="left">
